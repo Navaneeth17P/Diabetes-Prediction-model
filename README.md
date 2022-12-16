@@ -23,11 +23,17 @@ Approach:
 Following pointers will be helpful to structure your findings.   
 
 1.	Perform descriptive analysis. It is very important to understand the variables and corresponding values. We need to think through - Can minimum value of below listed columns be zero (0)? On these columns, a value of zero does not make sense and thus indicates missing value.
+
 		•	Glucose
+		
 		•	BloodPressure
+		
 		•	SkinThickness
+		
 		•	Insulin
+		
 		•	BMI
+		
   How will you treat these values?
 
 2.	Visually explore these variable, you may need to look for the distribution of these variables using histograms. Treat the missing values accordingly.
